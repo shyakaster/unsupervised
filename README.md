@@ -5,7 +5,7 @@
 
 link(s)
 
-- quick orientation to projects
+- [quick orientation to projects](https://docs.google.com/document/d/1SpxzCC3kJXzVZJShAQ7FxbImlLW-ht7gpwl5rOHls50/edit?usp=sharing)
 
 to-do:
 
