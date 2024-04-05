@@ -5,6 +5,7 @@
 
 link(s)
 
+- [discord](https://discord.gg/Ab7ffdJK)
 - [quick orientation to projects](https://docs.google.com/document/d/1SpxzCC3kJXzVZJShAQ7FxbImlLW-ht7gpwl5rOHls50/edit?usp=sharing)
 
 live sessions
