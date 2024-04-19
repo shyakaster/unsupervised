@@ -10,9 +10,9 @@ link(s)
 
 live sessions
 
+- [2024-04-19](https://drive.google.com/drive/folders/1Kucy8L2Mj7pLfZ_z1u0funIvxiMoUglx?usp=sharing)
 - [2024-04-12](https://drive.google.com/drive/folders/1CCwWHpE79Yw5owHfTiGPkwBUa9CphHWT?usp=sharing)
 - [2024-04-05](https://drive.google.com/drive/folders/1ahFbK7ye1ZUSD8rR8x0ObCLpUPqL5mG4?usp=sharing)
-
 
 to-do:
 
